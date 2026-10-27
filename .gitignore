@@ -1,0 +1,4 @@
+*.class
+*.db-journal
+.vscode/
+lib/
