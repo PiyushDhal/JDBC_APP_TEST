@@ -29,3 +29,6 @@ javac -cp "lib/*" StudentRegistrationApp.java
 ```powershell
 java -cp ".;lib/*" StudentRegistrationApp
 ```
+
+## Output Screenshot
+![Output Screenshot](output_screenshot.png)
